@@ -1,0 +1,32 @@
+{
+  "id": "fff82803-ddc7-4f06-b712-ce3f4e2324b8",
+  "name": "Straight Forward Integration",
+  "publisher": "Kation Technologies Inc.",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 70000,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
